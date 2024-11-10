@@ -4,8 +4,6 @@
 
 [![GitHub Raz](https://img.shields.io/github/followers/amandarazmus?label=follow&style=social)](https://github.com/amandarazmus)
 [![Linkedin: amandarazmus](https://img.shields.io/badge/-amandarazmus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandarazmus/)](https://www.linkedin.com/in/amandarazmus/)
-[![Gmail](https://img.shields.io/badge/-Gmail-white?&slogoColor=white)](mailto:amandarazmus@gmail.com)
-[![Calendly](https://img.shields.io/badge/-Chat-blue?style=flat-square&logo=Calendly&logoColor=white&link=https://www.calendly.com/amandarazmus/)](https://www.calendly.com/amandarazmus/)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -19,9 +17,7 @@ const Raz = {
   techCommunities: {
                         scholarship winner: "Grace Hopper",
                         member: "Women in Tech",
-                        mentor: "ADP"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 
